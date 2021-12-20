@@ -1,0 +1,20 @@
+{
+  "name": "my-project-x2",
+  "version": "1.0.0",
+  "description": "Elena Tyshchenko group",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Lena",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "eslint": "^8.5.0",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "moment": "^2.29.1"
+  }
+}
