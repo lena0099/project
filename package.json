@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lena0099/project-x.git"
+  },
   "author": "Lena",
   "license": "ISC",
   "devDependencies": {
